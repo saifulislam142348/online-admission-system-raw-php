@@ -1,0 +1,17 @@
+body
+{
+	background:black;
+}
+h1{color:red;
+   text-align:center;
+}
+.txt{
+	color:green;
+	text-align:center;
+	text-top:0px;
+	bold:6px;
+}
+h3{
+	text-align:center;
+	color:white;
+}
